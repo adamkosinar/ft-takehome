@@ -31,4 +31,4 @@ use `npm i` to install all dependencies.
 
 use `npm run test` to build, lint and to run all unit tests and coverage. 
 
-use `npm run start` to execute run the project. 
+use `npm run start` to run the project. 
